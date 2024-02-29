@@ -29,7 +29,6 @@ class FabricaEjecutorComandos
         ejecutor.Adicionar("adicionar", new ComandoAdicionar());
         ejecutor.Adicionar("prev", new ComandoPrev<String>());
         ejecutor.Adicionar("last", new comadoLast<String>());
-
         ejecutor.Adicionar("help", new ComandoAyuda(ejecutor));
 
         return ejecutor;
@@ -38,17 +37,57 @@ class FabricaEjecutorComandos
 }
 
 interface IPaginador<T>
-{
-    void Adicionar(T elemento);
-    void Prev();
-    void Last();
+{ void addItem(T item);
+
+    void firstPage();
+
+    void lastPage();
+
+    void nextPage();
+
+    void previousPage();
+
+    void pageByNumber(int pageNumber);
+
+    int getNumberOfPages();
+
 }
 
 class Paginador<T> implements IPaginador<T>
 {
-    public void Adicionar(T elemento){}
-    public void Prev(){}
-    public void Last(){}
+    @Override
+    public void addItem(T item) {
+    }
+
+    @Override
+    public void firstPage() {
+
+    }
+
+    @Override
+    public void lastPage() {
+
+    }
+
+    @Override
+    public void nextPage() {
+
+    }
+
+    @Override
+    public void previousPage() {
+
+    }
+
+    @Override
+    public void pageByNumber(int pageNumber) {
+
+    }
+
+    @Override
+    public int getNumberOfPages() {
+        return 0;
+    }
 }
 
 interface IEjecutorComandos<T>
@@ -132,7 +171,7 @@ class ComandoAdicionar implements IComando<String>
         Scanner s = new Scanner(System.in);
         System.out.println("ingrese dato");
         String cadena = s.nextLine();
-        paginador.Adicionar(cadena);
+        paginador.addItem(cadena);
     }
 }
 
@@ -148,7 +187,7 @@ class ComandoPrev<T> implements IComando<T>
 {
     public void Ejecutar(IPaginador<T> paginador)
     {
-        paginador.Prev();
+        paginador.previousPage();
 
     }
 }
@@ -156,6 +195,6 @@ class comadoLast<T> implements IComando<T>
 {
     public void Ejecutar(IPaginador<T> paginador)
     {
-        paginador.Last();
+        paginador.lastPage();
     }
 }
