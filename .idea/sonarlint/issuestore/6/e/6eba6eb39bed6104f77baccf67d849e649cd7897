@@ -1,0 +1,7 @@
+
+5
+java:S1700"Rename field "menu"(µνύÿÿÿÿ8Ϊ°»βή1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(σΌ8ά°»βή1
+k
+java:S3824"IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(΄Β¤ύÿÿÿÿ8ιξΖγή1
+L	java:S106 "+Replace this use of System.out by a logger.(¥†όÿÿÿÿ8ίξγή1

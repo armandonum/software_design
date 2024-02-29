@@ -1,0 +1,9 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûùŒ8äÿÿß1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÅèŸıÿÿÿÿ8æÿÿß1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìğõ8çÿÿß1
+K
+java:S2140
+")Use "java.util.Random.nextInt()" instead.(£€ÑÙÿÿÿÿÿ8úÿÿß1
+L	java:S106"+Replace this use of System.out by a logger.(¼Èò–ùÿÿÿÿ8ûÿÿß1

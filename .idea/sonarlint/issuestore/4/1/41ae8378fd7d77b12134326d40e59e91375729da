@@ -1,0 +1,9 @@
+
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Â¨•ù
+E	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ
+K
+java:S2440".Remove this instantiation of "ParserInterval".(Î˜™ú8“½ò´Ý1
+R
+java:S2209"5Change this instance-reference to a static reference.(Ë¥Áç8ò½ò´Ý1
+F
+java:S5413")Verify that "remove()" is used correctly.(œ›ô“8ö¾ò´Ý1
