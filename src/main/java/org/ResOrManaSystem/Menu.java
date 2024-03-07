@@ -1,5 +1,7 @@
 package org.ResOrManaSystem;
 
+import org.ResOrManaSystem.interfaces.IMenu;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -28,9 +30,12 @@ if(menu.containsKey(item)){
 
     @Override
     public void mostrarMenu() {
-        for (Map.Entry<String, Double> entry : menu.entrySet()) {
-            System.out.println(" " + entry.getKey() + "-> " + entry.getValue());
-        }
+        System.out.println("el metodo se esta ejecutanco ");
+       for(int i=0;i<menu.size();i++){
+           System.out.println("el for sirve");
+           System.out.println(menu.keySet().toArray()[i]+" precio "+menu.values().toArray()[i]);
+       }
+
 
     }
 }

@@ -1,0 +1,17 @@
+
+{
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÞׁ‎ÿÿÿÿ8‚÷דצא1
+0
+java:S1220""Move this file to a named package.
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ןֳ³P8ַדצא1
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(פ»ץט8×ַדצא1
+o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(שֽ·ÿüÿÿÿÿ8µַדצא1
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÛְ‎8¾ַדצא1
+o	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–טµךשÿÿÿÿ8ַָדצא1
+o	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢”ßÞרÿÿÿÿ8װַדצא1
+o	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰–­¶‎ÿÿÿÿ8›ָדצא1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(רצ‏Êûÿÿÿÿ8׀ֻדצא1
+M	java:S106–"+Replace this use of System.out by a logger.(ֳ’‹ָüÿÿÿÿ8ָּדצא1
+H	java:S106™"+Replace this use of System.out by a logger.(ע₪µז8דּדצא1
+J
+java:S1068L"-Remove this unused "totalSize" private field.(ץ™·ט8®ֽדצא1

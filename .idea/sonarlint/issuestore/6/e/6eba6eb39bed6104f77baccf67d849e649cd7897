@@ -1,7 +1,10 @@
 
 5
-java:S1700"Rename field "menu"(µíŠıÿÿÿÿ8Ú°»âŞ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŸ¼8Ü°»âŞ1
+java:S1700
+"Rename field "menu"(µíŠıÿÿÿÿ8¿ı·ß1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŸ¼8“¿ı·ß1
 k
-java:S3824"IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(´ÂŸ¤ıÿÿÿÿ8éîÆãŞ1
-L	java:S106 "+Replace this use of System.out by a logger.(˜¥Š†üÿÿÿÿ8ßîŒãŞ1
+java:S3824"IReplace this "Map.containsKey()" with a call to "Map.computeIfPresent()".(´ÂŸ¤ıÿÿÿÿ8ü¿ı·ß1
+L	java:S106!"+Replace this use of System.out by a logger.(ÉÔÜÌûÿÿÿÿ8˜Àı·ß1
+L	java:S106#"+Replace this use of System.out by a logger.(®İ×şÿÿÿÿ8œÀı·ß1
+L	java:S106$"+Replace this use of System.out by a logger.(òîşÙşÿÿÿÿ8Àı·ß1

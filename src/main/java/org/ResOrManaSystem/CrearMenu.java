@@ -2,7 +2,7 @@ package org.ResOrManaSystem;
 
 public class CrearMenu {
     Menu menu = new Menu();
-    public void agregarMenu(){
+    public Menu agregarMenu(){
         menu.agregarMenu("Hamburguesa", 5.00);
         menu.agregarMenu("Papas Fritas", 2.00);
         menu.agregarMenu("Refresco", 1.00);
@@ -13,5 +13,7 @@ public class CrearMenu {
         menu.agregarMenu("Vino", 3.00);
         menu.agregarMenu("Agua", 1.00);
         menu.mostrarMenu();
+
+        return menu;
     }
 }

@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 public class ejecutor {
 CrearMenu crearmenu = new CrearMenu();
-Menu menu1 = new Menu();
+Menu menu1 ;
 Scanner in=new Scanner(System.in);
 
     public void ejecutar(String opcion){
         switch (opcion) {
             case "1":
                 System.out.println("menu");
-                crearmenu.agregarMenu();
+                menu1=crearmenu.agregarMenu();
                 break;
             case "2":
                 System.out.println("actualizar precio");
@@ -22,6 +22,10 @@ Scanner in=new Scanner(System.in);
                 menu1.mostrarMenu();
                 break;
             case "3":
+                //muestra el menu actualizado
+                menu1.mostrarMenu();
+                break;
+            case "4":
                 System.out.println("Salir");
                 break;
             default:

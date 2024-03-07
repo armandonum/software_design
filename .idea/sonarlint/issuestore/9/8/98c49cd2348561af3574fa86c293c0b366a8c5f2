@@ -1,0 +1,9 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΗΏηθÿÿÿÿÿ8­’¨α1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(η®Ò¨8²’¨α1
+L
+java:S1068"*Remove this unused "nombre" private field.(µÿο„ωÿÿÿÿ8λ’¨α1
+G
+java:S1068"*Remove this unused "precio" private field.(Πό8π’¨α1
+N
+java:S1068",Remove this unused "cantidad" private field.(ƒƒΧ«ÿÿÿÿÿ8“¨α1

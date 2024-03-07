@@ -1,9 +1,10 @@
 package org.ResOrManaSystem;
 
+import org.ResOrManaSystem.interfaces.IgestionMesas;
 import java.util.HashMap;
 import java.util.Map;
 
-public class gestionMesas implements IgestionMesas{
+public class gestionMesas implements IgestionMesas {
 private Map<Integer, String> mesas;
     public gestionMesas(){
         this.mesas=new HashMap<>();
