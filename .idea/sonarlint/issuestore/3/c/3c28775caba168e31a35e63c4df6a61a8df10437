@@ -1,0 +1,8 @@
+
+€
+java:S1488
+"^Immediately return this expression instead of assigning it to the temporary variable "opcion".(¨–‘áüÿÿÿÿ8†¹÷Ğã1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜´õËûÿÿÿÿ8ÄÒ¾â1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ˜©¨şÿÿÿÿ8ĞÒ¾â1
+L	java:S106	"+Replace this use of System.out by a logger.(²òå¡úÿÿÿÿ8Õ¾â1
+X	java:S125"<This block of commented-out lines of code should be removed.(ƒş•‰8»Œ÷Ğã1
