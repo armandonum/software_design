@@ -1,0 +1,6 @@
+
+r	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¢õ“ûÿÿÿÿ8ŸëòÜä1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æº«Ïøÿÿÿÿ8£ëòÜä1
+L	java:S106"+Replace this use of System.out by a logger.(ùÌñ˜ûÿÿÿÿ8˜íòÜä1
+]
+java:S1612)"@Replace this lambda with method reference 'comparador::compare'.(ÚØö–8¤Áİä1

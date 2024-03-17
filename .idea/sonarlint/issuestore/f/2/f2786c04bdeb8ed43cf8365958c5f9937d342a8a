@@ -1,0 +1,11 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿŞÑıÿÿÿÿ8ŸîüÉä1
+t	java:S127E"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘´ä8¯îüÉä1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶‘ûıÿÿÿÿ8ÍîüÉä1
+o	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øöşÊûÿÿÿÿ8¶ïüÉä1
+o	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰šÀ¹ÿÿÿÿÿ8ÅïüÉä1
+L	java:S106W"+Replace this use of System.out by a logger.(Ã’‹Èüÿÿÿÿ8ïïüÉä1
+L	java:S106Y"+Replace this use of System.out by a logger.(Ïíõšûÿÿÿÿ8Ú©şÉä1
+O
+java:S1068"-Remove this unused "totalsize" private field.(õÁĞÙşÿÿÿÿ8öïüÉä1

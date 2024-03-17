@@ -1,0 +1,19 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Pizza" 3 times.(µÄŒğÿÿÿÿÿ8¤Ùßß1
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Salad" 3 times.(¬ü‡Ÿ8­Ùßß1
+j	java:S101¤"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ªèè8ïèÜä1
+j	java:S101À"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô„Ò“8ğèÜä1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅŞöŠÿÿÿÿÿ8ÖÙßß1
+r	java:S114#"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íäââùÿÿÿÿ8ØÙßß1
+b
+java:S1854"@Remove this useless assignment to local variable "orderManager".(­Ñáùÿÿÿÿ8üÛßß1
+S
+java:S1481"1Remove this unused "orderManager" local variable.(­Ñáùÿÿÿÿ8¢Üßß1
+L	java:S106"+Replace this use of System.out by a logger.(¶Åóƒşÿÿÿÿ8«Üßß1
+G	java:S106"+Replace this use of System.out by a logger.(¦€äÑ8²Üßß1
+L	java:S106L"+Replace this use of System.out by a logger.(ŞìÔêÿÿÿÿÿ8ûÜßß1
+L	java:S106O"+Replace this use of System.out by a logger.(­şıúÿÿÿÿ8„İßß1
+M	java:S106¹"+Replace this use of System.out by a logger.(öˆÎÎúÿÿÿÿ8ÉëÜä1
+M	java:S106¼"+Replace this use of System.out by a logger.(£‰Äÿşÿÿÿÿ8ŒìÜä1

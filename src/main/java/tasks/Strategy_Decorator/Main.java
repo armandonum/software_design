@@ -1,8 +1,7 @@
-package tasks.sortListObjets;
-import tasks.sortListObjets.interfaces.IComparatorFactory;
-import tasks.sortListObjets.interfaces.IComparatorStrategy;
-import java.util.List;
+package tasks.Strategy_Decorator;
+
 import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
 
@@ -10,14 +9,17 @@ public class Main {
 
             entradas opcion=new entradas();
             List<estudiante> estudiantes = getEstudiantes();
+            visualizar(estudiantes);
 
             String opcionElegida=opcion.opciones();
             ordenar(opcionElegida, estudiantes);
             visualizar(estudiantes);
+
         }
 
+
     private static void visualizar(List<estudiante> estudiantes) {
-        for(estudiante estudiante : estudiantes) {
+        for(tasks.Strategy_Decorator.estudiante estudiante : estudiantes) {
             System.out.println(estudiante);
         }
     }
@@ -35,6 +37,7 @@ public class Main {
     private static void ordenar(String opcionElegida, List<estudiante> estudiantes) {
         IComparatorFactory Factory = comparadorFactory.getInstance();
         IComparatorStrategy comparador=Factory.crearComparador(opcionElegida);
+
         estudiantes.sort((s1, s2) -> comparador.compare(s1, s2));
     }
 
