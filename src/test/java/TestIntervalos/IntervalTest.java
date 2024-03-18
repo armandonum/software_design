@@ -1,15 +1,8 @@
 package TestIntervalos;
-import org.intervalos.Interval;
-import org.intervalos.AddIntervals;
-import org.intervalos.OverlapChecker;
-import org.intervalos.IntervalFusion;
 
-import org.intervalos.ParserInterval;
 import org.junit.Test;
 
-import java.util.ArrayList;
-
-import static org.intervalos.Main.sumIntervals;
+import static tasks.intervalos.Main.sumIntervals;
 import static org.junit.Assert.assertEquals;
 
 
