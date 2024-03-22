@@ -1,0 +1,12 @@
+
+Ž
+java:S1192	"FDefine a constant instead of duplicating this literal "Pizza" 3 times.(µÄŒðÿÿÿÿÿ8Õ½ë²æ1J$4d1d53a6-76e8-4dbc-8951-cf99fadbad39
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "Salad" 3 times.(¬ü‡Ÿ8Õ½ë²æ1J$50619776-0615-4e73-bef6-c874c9facb85
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ÕŠƒJ$319f2b2d-a350-43d1-bfe4-f02c283528d0
+ˆ
+java:S1854"@Remove this useless assignment to local variable "orderManager".(­žÑáùÿÿÿÿ8Ü½ë²æ1J$6bddb795-b3be-46bc-a2fd-c0b8b8fc0463
+y
+java:S1481"1Remove this unused "orderManager" local variable.(­žÑáùÿÿÿÿ8à½ë²æ1J$3a000d2d-75e4-4b75-94fe-d480ea63e06c
+r	java:S106"+Replace this use of System.out by a logger.(¶Åóƒþÿÿÿÿ8â½ë²æ1J$556318de-805d-4ed6-b766-72f17af0ee13
+m	java:S106"+Replace this use of System.out by a logger.(¦€äÑ8ã½ë²æ1J$867a51cd-3448-4a8c-9301-8cf3636c0806

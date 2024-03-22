@@ -25,8 +25,8 @@ public class comparadorFactory implements IComparatorFactory {
             return new compararaEdad();
         } else if (id.equals("grado")) {
             return new compararGrado();
-        } else if (id.equals("conbinados")) {
-            return new combinado();
+        } else if (id.equals("combinado")) {
+            return new combinarMultiple();
         }
         return null;
     }

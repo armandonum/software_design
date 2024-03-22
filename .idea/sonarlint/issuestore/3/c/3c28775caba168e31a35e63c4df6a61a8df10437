@@ -1,8 +1,12 @@
 
-€
-java:S1488
-"^Immediately return this expression instead of assigning it to the temporary variable "opcion".(¨–‘áüÿÿÿÿ8†¹÷Ğã1
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜´õËûÿÿÿÿ8ÄÒ¾â1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ˜©¨şÿÿÿÿ8ĞÒ¾â1
-L	java:S106	"+Replace this use of System.out by a logger.(²òå¡úÿÿÿÿ8Õ¾â1
-X	java:S125"<This block of commented-out lines of code should be removed.(ƒş•‰8»Œ÷Ğã1
+¦
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "opcion".(¨–‘áüÿÿÿÿ8˜äÇ²æ1J$025f5308-571c-400e-8be5-09ceb7b9eff0
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(˜´õËûÿÿÿÿ8ÄÒ¾â1J$39a3d3ba-f26f-4256-9e80-277a2ef8930e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ˜©¨şÿÿÿÿ8ĞÒ¾â1J$c719eed5-703d-4e55-87d5-e37daf707b27
+r	java:S106
+"+Replace this use of System.out by a logger.(²òå¡úÿÿÿÿ8Õ¾â1J$742098ad-79ef-4f9c-9886-c491f9d8c4a7
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àêßòşÿÿÿÿ8’‚Å²æ1J$f221fef7-78d6-4367-aa76-b5a750e8eb79
+r	java:S106"+Replace this use of System.out by a logger.(Ãê‹«ÿÿÿÿÿ8“‚Å²æ1J$34cf4320-b7b8-4640-a8f3-cbb7e390304b
+m	java:S106"+Replace this use of System.out by a logger.(Á³õ„8•‚Å²æ1J$42ba3ce8-13b8-4210-adbe-8ea8af2da0bf
+m	java:S106"+Replace this use of System.out by a logger.(ïæğ÷8–‚Å²æ1J$eb56feb1-81b7-44bf-ac3c-20394957b3ff
+m	java:S106"+Replace this use of System.out by a logger.(‹ÿ¿È8—‚Å²æ1J$867882bd-737a-44bf-9487-e6c1a2ff0304

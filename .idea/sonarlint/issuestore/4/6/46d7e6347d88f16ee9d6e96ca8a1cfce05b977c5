@@ -1,9 +1,9 @@
 
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à±‘Ò8Õ¡ ä1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à´‡è8ê¡ ä1
-Z
-java:S1854"8Remove this useless assignment to local variable "main".(²Äˆİÿÿÿÿÿ8»ËŸ ä1
-K
-java:S1481")Remove this unused "main" local variable.(²Äˆİÿÿÿÿÿ8ÀËŸ ä1
-P
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Áõ¨ ä1
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à±‘Ò8Õ¡ ä1J$ee7f1fd0-efa6-4376-bb91-2b6de29a0d00
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à´‡è8ê¡ ä1J$2acb5b02-7fc1-48a4-9b62-53a09e197f37
+€
+java:S1854"8Remove this useless assignment to local variable "main".(²Äˆİÿÿÿÿÿ8»ËŸ ä1J$47fe2dfe-58ff-432e-b28a-f6292cf52161
+q
+java:S1481")Remove this unused "main" local variable.(²Äˆİÿÿÿÿÿ8ÀËŸ ä1J$9a872b43-4442-4bc1-b9fb-55fbfa082d4b
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Áõ¨ ä1J$328410fa-1ace-40e6-8748-cfe1d1e2a292

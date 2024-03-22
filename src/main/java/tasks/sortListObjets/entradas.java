@@ -6,20 +6,16 @@ public class entradas {
     Scanner in=new Scanner(System.in);
 
     public String opciones(){
+        Menu();
         System.out.println("Elija una opcion: ");
         String opcion=in.nextLine();
         return opcion;
-//        switch (opcion){
-//            case "nombre":
-//                return "nombre";
-//            case "grado":
-//                return "grado";
-//            case "edad":
-//                return "edad";
-//            case "combinado":
-//                return "combinado";
-//            default:
-//                return "opcion no valida";
-//        }
+    }
+
+    private static void Menu() {
+        System.out.println("edad ");
+        System.out.println("grado ");
+        System.out.println("nombre ");
+        System.out.println("combinado ");
     }
 }

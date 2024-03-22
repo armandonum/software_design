@@ -15,7 +15,7 @@ public class Main {
         AssingPackes assingPackes = new AssingPackes();
 
 
-        // inputs dron
+         // inputs dron
         String[] droneInputs = scanner.nextLine().split(", ");
         for (int i = 0; i < droneInputs.length; i += 2) {
             drones.add(new Drone(droneInputs[i], Integer.parseInt(droneInputs[i + 1])));
